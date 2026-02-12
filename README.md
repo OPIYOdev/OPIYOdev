@@ -3,7 +3,7 @@
 **Nairobi, Kenya** • KCA University • Building scalable systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opiyodev)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bradleyopiyo2@gmail.com)
 
 ---
 
@@ -39,6 +39,7 @@ Full-stack demonstration of service-oriented architecture connecting Flutter fro
 - **Rust** - Systems programming fundamentals
 - **System Design** - Studying scalability patterns for distributed systems
 - **Algorithms** - Sharpening problem-solving skills on LeetCode
+- **Kotlin & Native Android Development**
 
 ---
 
