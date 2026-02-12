@@ -1,21 +1,77 @@
-# 💫 About Me:
-<div align="center"><br>  <br># 👋 Bradley Opiyo - Backend & Mobile Engineer<br><br>**Nairobi, Kenya** • KCA University Alum • Open to Opportunities<br><br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/YOUR_USERNAME)<br>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)<br><br></div><br><br>## 🛠️ **Core Skills Dashboard**<br><br>| **Backend** | **Mobile** | **Architecture** | **DevOps** |<br>|-------------|------------|------------------|------------|<br>| **Django REST** 🐍<br>Production APIs | **Flutter** 🧬<br>Clean Architecture | **Microservices**<br>High Availability | **Docker** 🐳<br>Kubernetes |<br>| **FastAPI** ⚡ | **Kotlin**<br>Jetpack Compose | **MVVM**<br>Redis Caching | **CI/CD** Pipelines |<br><br>## 📁 **Featured Projects**<br><br>- **[CARWASH SaaS](https://github.com/YOUR_USERNAME/carwash)**  <br>  *Multi-service backend* with MPESA payments, Africa's Talking SMS, 99.9% uptime via Docker + Redis<br><br>- **[Microservices Demo](https://github.com/YOUR_USERNAME/microservices-demo)**  <br>  *Scalable architecture* integrating Flutter frontend with Django services<br><br>## 🎯 **Currently Mastering**<br><br>✅ Go concurrency & goroutines  <br>✅ Rust systems programming  <br>✅ FAANG system design patterns  <br>✅ Advanced algorithms (LeetCode)<br><br>## 📞 **Connect**<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)<br>[![Email](mailto:your.email@example.com)](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)<br><br>---<br><br>**Open Source Contributor** | **Production-Ready Code** | **Let's Build Scalable Systems**<br>
+# 👋 Bradley Opiyo - Backend & Mobile Engineer
 
+**Nairobi, Kenya** • KCA University • Building scalable systems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/opiyodev) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OPIYOdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OPIYOdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OPIYOdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opiyodev)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OPIYOdev&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Do
+
+I build **production-ready backend systems** and **cross-platform mobile apps** with a focus on clean architecture and reliability. My approach: break complex problems into clear, sequential steps that scale.
+
+**Core Expertise:**
+- 🐍 **Django REST & FastAPI** - High-performance APIs with proper authentication & caching
+- 📱 **Flutter & Kotlin** - Native-feeling mobile apps using MVVM architecture
+- 🐳 **DevOps** - Docker, CI/CD pipelines, and microservices deployment
+- 💾 **Databases** - PostgreSQL, MongoDB, Redis for caching & real-time features
+
+---
+
+## 🚀 Featured Projects
+
+### [CARWASH SaaS Platform](#)
+Multi-tenant backend system handling payments (MPESA integration), SMS notifications (Africa's Talking), and real-time booking management.
+- **Stack:** Django REST, PostgreSQL, Redis, Docker
+- **Scale:** Deployed microservices with load balancing
+
+### [Microservices Architecture Demo](#)
+Full-stack demonstration of service-oriented architecture connecting Flutter frontend to multiple Django backend services.
+- **Stack:** Flutter, Django, Docker Compose, Nginx
+- **Features:** API Gateway, service discovery, centralized logging
+
+---
+
+## 📚 Currently Learning
+
+- **Go** - Exploring concurrency patterns and building CLI tools
+- **Rust** - Systems programming fundamentals
+- **System Design** - Studying scalability patterns for distributed systems
+- **Algorithms** - Sharpening problem-solving skills on LeetCode
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python • Dart • Kotlin • JavaScript • Java  
+**Backend:** Django • FastAPI • REST APIs  
+**Mobile:** Flutter • Jetpack Compose  
+**Databases:** PostgreSQL • MongoDB • Redis • SQLite  
+**Tools:** Docker • Git • Postman • Linux
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPIYOdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OPIYOdev&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OPIYOdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 💡 Philosophy
+
+I believe in writing code that's **readable, maintainable, and gets shipped**. Complex problems deserve simple, step-by-step solutions. Clean execution flow beats clever abstractions.
+
+---
+
+**Open to:** Backend/Mobile Development Roles • Open Source Collaboration • Freelance Projects
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=OPIYOdev&icon=0&color=8)](https://visitcount.itsvg.in)
+
+---
+
+*Let's build something scalable together* 🚀
