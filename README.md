@@ -1,6 +1,8 @@
 # 👋 Bradley Opiyo - Backend & Mobile Engineer
 
 **Nairobi, Kenya** • KCA University • Building scalable systems
+
+Ongoing codeguard project leveraging ai to test edge cases within a codebase
 (https://codeguard-ten.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/opiyodev)
