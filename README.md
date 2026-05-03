@@ -2,6 +2,8 @@
 
 **Nairobi, Kenya** • KCA University • Building scalable systems
 
+web portfolio - https://opiyodev.lovable.app/
+
 Ongoing codeguard project leveraging ai to test edge cases within a codebase
 (https://codeguard-ten.vercel.app/)
 https://opiyodev.github.io/
